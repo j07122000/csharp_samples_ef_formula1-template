@@ -8,7 +8,7 @@ namespace Formula1.Persistence
     public class ApplicationDbContext : DbContext
     {
 
-        public ApplicationDbContext()
+        public ApplicationDbContext() 
         {
         }
         public ApplicationDbContext(DbContextOptions options) : base(options)
