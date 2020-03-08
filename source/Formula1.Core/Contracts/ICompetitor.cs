@@ -9,7 +9,7 @@
         /// Liefert den Namen des Wettkämpfers
         /// Teamname oder Fahrername
         /// </summary>
-        string Name { get; }
+        string Name { get; } 
     }
 }
 
