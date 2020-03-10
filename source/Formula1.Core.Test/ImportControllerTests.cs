@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Linq;
+using Formula1.Core;
 
 
 namespace Formula1.Core.Test
