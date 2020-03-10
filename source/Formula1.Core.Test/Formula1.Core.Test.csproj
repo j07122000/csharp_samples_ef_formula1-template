@@ -20,4 +20,8 @@
     <PackageReference Include="MSTest.TestFramework" Version="2.1.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Formula1.Core\Formula1.Core.csproj" />
+  </ItemGroup>
+
 </Project>
